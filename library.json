@@ -1,0 +1,21 @@
+{
+    "name": "CommonESP",
+    "keywords": "ESP32",
+    "description": "Beetje gemeenschappelijke brol!",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/BartelKarlijn/CommonESP.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Bartel Karlijn",
+        "email": "noreply@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "version": "0.1.0",
+    "frameworks": "arduino",
+    "platforms": ["espressif32"]
+  }
